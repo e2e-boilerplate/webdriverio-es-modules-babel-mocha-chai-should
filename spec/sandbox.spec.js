@@ -1,4 +1,6 @@
-import { expect } from "chai";
+import { should } from "chai";
+
+should();
 
 describe("Sandbox", () => {
   before(() => {
@@ -7,9 +9,9 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     const title = browser.getTitle();
-    const header = $("h1").getText();
+    title.should.eql("Sandbox");
 
-    expect(title).to.eq("Sandbox");
-    expect(header).to.eq("Sandbox");
+    const header = $("h1").getText();
+    header.should.eql("Sandbox");
   });
 });
