@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                         |
+| :-- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 224 | 01/04/20 10:59 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68320883) |
+| 222 | 01/04/20 08:45 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68228302) |
+| 219 | 31/03/20 12:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/67545381) |
+| 229 | 02/04/20 08:49 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69050173) |
+| 220 | 31/03/20 20:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/67831605) |
+| 225 | 01/04/20 11:30 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68346051) |
+| 226 | 01/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68743241) |
+| 232 | 02/04/20 21:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69506495) |
+| 228 | 02/04/20 08:37 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69043834) |
+| 238 | 03/04/20 08:52 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69863644) |
+| 230 | 02/04/20 10:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69120091) |
+| 227 | 02/04/20 06:40 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68969683) |
+| 233 | 02/04/20 23:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69551312) |
+| 236 | 03/04/20 00:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69575070) |
+| 235 | 02/04/20 23:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69563402) |
+| 234 | 02/04/20 23:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69561532) |
+| 231 | 02/04/20 19:40 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69444260) |
+| 240 | 03/04/20 21:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70303951) |
+| 239 | 03/04/20 21:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70302385) |
+| 242 | 04/04/20 16:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70739171) |
+| 241 | 04/04/20 16:00 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70720725) |
+| 243 | 04/04/20 18:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70789796) |
+| 217 | 30/03/20 20:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/66963709) |
+| 223 | 01/04/20 08:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68229384) |
+| 237 | 03/04/20 02:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/69637344) |
+| 221 | 01/04/20 07:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/68191320) |
+| 244 | 04/04/20 20:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/70831098) |
+| 216 | 30/03/20 17:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/66870688) |
+| 218 | 31/03/20 10:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/67467927) |
+| 215 | 30/03/20 16:50 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect/actions/runs/66833711) |
