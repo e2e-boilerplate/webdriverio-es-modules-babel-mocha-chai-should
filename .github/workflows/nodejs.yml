@@ -2,7 +2,7 @@ name: webdriverio-es-modules-babel-mocha-chai-should
 'on':
   push: null
   schedule:
-    - cron: 40 4 1-31/2 * *
+    - cron: 30 5 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
