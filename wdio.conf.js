@@ -16,6 +16,7 @@ const headed = {
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
+  // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
     // eslint-disable-next-line import/no-extraneous-dependencies
     require("@babel/register");
@@ -30,7 +31,7 @@ const headless = {
     {
       browserName: "chrome",
       "goog:chromeOptions": {
-        args: ["--headless", "--disable-gpu"]
+        args: ["--headless", "--disable-gpu"],
       },
     },
   ],
@@ -43,6 +44,7 @@ const headless = {
   },
   jasmineNodeOpts: {},
   cucumberOpts: {},
+  // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
     // eslint-disable-next-line import/no-extraneous-dependencies
     require("@babel/register");
