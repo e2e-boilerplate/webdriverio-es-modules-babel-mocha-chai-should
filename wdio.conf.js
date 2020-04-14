@@ -18,7 +18,7 @@ const headed = {
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
-    // eslint-disable-next-line import/no-extraneous-dependencies
+    // eslint-disable-next-line import/no-extraneous-dependencies, global-require
     require("@babel/register");
   },
 };
@@ -46,7 +46,7 @@ const headless = {
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
   before: (capabilities, specs) => {
-    // eslint-disable-next-line import/no-extraneous-dependencies
+    // eslint-disable-next-line import/no-extraneous-dependencies, global-require
     require("@babel/register");
   },
 };
