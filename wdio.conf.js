@@ -31,7 +31,7 @@ const headless = {
     {
       browserName: "chrome",
       "goog:chromeOptions": {
-        args: ["--headless", "--disable-gpu"],
+        args: ["--headless", "--disable-gpu"]
       },
     },
   ],
