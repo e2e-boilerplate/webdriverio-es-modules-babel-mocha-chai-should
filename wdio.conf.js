@@ -18,10 +18,7 @@ const headed = {
   jasmineNodeOpts: {},
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
-  before: (capabilities, specs) => {
-    // eslint-disable-next-line import/no-extraneous-dependencies, global-require
-    require("@babel/register");
-  },
+  before: (capabilities, specs) => {},
 };
 
 const headless = {
@@ -47,10 +44,7 @@ const headless = {
   jasmineNodeOpts: {},
   cucumberOpts: {},
   // eslint-disable-next-line no-unused-vars
-  before: (capabilities, specs) => {
-    // eslint-disable-next-line import/no-extraneous-dependencies, global-require
-    require("@babel/register");
-  },
+  before: (capabilities, specs) => {},
 };
 
 const config = process.env.GITHUB_ACTIONS ? headless : headed;
