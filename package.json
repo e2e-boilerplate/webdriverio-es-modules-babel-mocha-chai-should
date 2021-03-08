@@ -12,7 +12,7 @@
     "chai": "4.3.3",
     "chromedriver": "87.0.7",
     "mocha": "8.3.1",
-    "wdio-chromedriver-service": "6.0.4"
+    "wdio-chromedriver-service": "7.0.0"
   },
   "description": "WebdriverIO end-to-end test automation boilerplate. Using ES Modules, Babel, Mocha, Chai and Should.",
   "devDependencies": {
