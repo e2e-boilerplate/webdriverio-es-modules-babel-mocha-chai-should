@@ -11,7 +11,7 @@ describe("Sandbox", () => {
     const title = browser.getTitle();
     title.should.eql("Sandbox");
 
-    const header = $("h1").getText();
+    const header = browser.$("h1").getText();
     header.should.eql("Sandbox");
   });
 });
